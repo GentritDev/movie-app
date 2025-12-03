@@ -1,4 +1,3 @@
-# React + Vite
 # CineScout — Discover Trending Movies
 
 A modern React app to browse trending and popular movies from TMDB with a clean UI, fast search, and responsive design. Built with Vite for a snappy developer experience. Appwrite integration is optional and can be added later (current build focuses on TMDB-only client flow).
