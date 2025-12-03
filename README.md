@@ -3,6 +3,9 @@
 
 A modern React app to browse trending and popular movies from TMDB with a clean UI, fast search, and responsive design. Built with Vite for a snappy developer experience. Appwrite integration is optional and can be added later (current build focuses on TMDB-only client flow).
 
+## Live Demo
+- Hosted at: https://gentritflix.netlify.app/
+
 ## Highlights
 - **Fast**: Vite + React for instant reloads and optimized builds.
 - **Fresh Data**: Fetches live movie lists from TMDB (`discover` API).
@@ -66,6 +69,8 @@ This project doesn’t call Appwrite yet; you can add it later via `src/appwrite
 
 ## Deployment
 Deploy as a static site (Netlify, Vercel, GitHub Pages, Azure Static Web Apps, etc.). Remember to set `VITE_TMDB_API_KEY` in the hosting environment.
+
+Live site: https://gentritflix.netlify.app/
 
 ## Roadmap
 - Movie cards with posters, ratings, and details
